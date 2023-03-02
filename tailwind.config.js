@@ -16,7 +16,7 @@ module.exports = {
             },
             colors: {
                 gray: colors.zinc,
-                primary: colors.purple,
+                primary: colors.indigo,
                 secondary: colors.amber,
             },
             fontSize: {
